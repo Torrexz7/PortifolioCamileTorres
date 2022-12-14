@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family= Work+Sans:ital,wght@1,100 & display =swap');
+
+h1 {
+    text-align: center;
+    margin: 40px 0;
+    font-family: 'Work Sans';
+    color: blueviolet;
+    text-transform: uppercase;
+}
+
+.nav {
+    background-color: blueviolet;
+}
+
+.nav-link {
+    color: black;
+    text-transform: uppercase;
+}
+
+.carousel-inner {
+    width: 70%;
+    margin: 0 15% 50px 15%;
+}
+
+.carousel-control-prev {
+    margin-left: 220px;
+}
+
+.carousel-control-next {
+    margin-right: 220px;
+}
+
+.carousel-item img {
+    height: 500px;
+}
+
+.g-col-2 img {
+    width: 400px;
+}
